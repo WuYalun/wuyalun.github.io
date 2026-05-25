@@ -5,7 +5,7 @@ export const personalInfo = {
   tagline: "I build systems that make LLMs measurable, governable, and deployable.",
   bio: "Master's student at NUS NExT++ Lab, working on trustworthy evaluation frameworks, LLM agent governance, and business-driven AI deployment. My research spans three layers: defining what reliable means, designing mechanisms to make systems reliable, and turning reliability into real business value.",
   email: "aaaronwww@outlook.com",
-  github: "https://github.com/gurenolun",
+  github: "https://github.com/WuYalun",
   location: "National University of Singapore, Singapore",
   avatar: "/avatar.jpg",
 };
@@ -209,7 +209,7 @@ export const publications = [
     year: "2026",
     type: "Conference",
     status: "Accepted",
-    link: "https://github.com/gurenolun/FLY-Eval-",
+    link: "https://github.com/WuYalun/FLY-Eval-",
   },
   {
     title: "U2-BENCH: Benchmarking Large Vision-Language Models on Ultrasound Understanding",

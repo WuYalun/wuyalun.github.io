@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Yalun Wu | Personal Homepage",
     description: "I build systems that make LLMs measurable, governable, and deployable.",
-    url: "https://gurenolun.github.io",
+    url: "https://wuyalun.github.io",
     siteName: "Yalun Wu",
     type: "website",
   },
