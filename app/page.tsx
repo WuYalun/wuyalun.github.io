@@ -108,7 +108,7 @@ export default function Home() {
                   src={personalInfo.avatar}
                   alt={personalInfo.name}
                   fill
-                  className="object-cover grayscale hover:grayscale-0 transition-all duration-500"
+                  className="object-cover"
                   priority
                 />
               </div>
